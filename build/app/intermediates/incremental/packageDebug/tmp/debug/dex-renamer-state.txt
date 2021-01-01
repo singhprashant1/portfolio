@@ -1,0 +1,4 @@
+#Thu Dec 31 18:50:56 IST 2020
+base.0=/home/popo/AndroidStudioProjects/portfolio/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
